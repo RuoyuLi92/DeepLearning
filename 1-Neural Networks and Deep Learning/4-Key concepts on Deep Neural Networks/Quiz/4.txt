@@ -1,0 +1,29 @@
+Forward propagation propagates the input through the layers, although for shallow networks we may just write all the lines (a^{[2]} = g^{[2]}(z^{[2]})a 
+[2]
+ =g 
+[2]
+ (z 
+[2]
+ ), z^{[2]}= W^{[2]}a^{[1]}+b^{[2]}z 
+[2]
+ =W 
+[2]
+ a 
+[1]
+ +b 
+[2]
+ , ...) in a deeper network, we cannot avoid a for loop iterating over the layers: (a^{[l]} = g^{[l]}(z^{[l]})a 
+[l]
+ =g 
+[l]
+ (z 
+[l]
+ ), z^{[l]} = W^{[l]}a^{[l-1]} + b^{[l]}z 
+[l]
+ =W 
+[l]
+ a 
+[l−1]
+ +b 
+[l]
+ , ...)
