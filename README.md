@@ -23,8 +23,8 @@ This repo contains my work for this specialization. Including programming exerci
   - [Week 1 - PA 1 - Initialization](https://github.com/RuoyuLi92/DeepLearning/blob/master/2-Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/1-Practical%20aspects%20of%20Deep%20Learning/Initialization/Initialization.ipynb)
   - [Week 1 - PA 2 - Regularization](https://github.com/RuoyuLi92/DeepLearning/blob/master/2-Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/1-Practical%20aspects%20of%20Deep%20Learning/Regularization/Regularization_v2a.ipynb)
   - [Week 1 - PA 3 - Gradient Checking](https://github.com/RuoyuLi92/DeepLearning/blob/master/2-Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/1-Practical%20aspects%20of%20Deep%20Learning/Gradient%20Checking/Gradient%2BChecking%2Bv1.ipynb)
-  - [Week 2 - PA 4 - Optimization Methods](https://github.com/RuoyuLi92/DeepLearning/blob/master/2-Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/2-Optimization%20algorithms/Optimization/Optimization_methods_v1b.ipynb)
-  - [Week 3 - PA 5 - TensorFlow Tutorial](https://github.com/RuoyuLi92/DeepLearning/blob/master/2-Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/3-Hyperparameter%20tuning%2C%20Batch%20Normalization%20and%20Programming%20Frameworks/TensorFlow%20Tutorial/TensorFlow_Tutorial_v3b.ipynb)
+  - [Week 2 - PA 1 - Optimization Methods](https://github.com/RuoyuLi92/DeepLearning/blob/master/2-Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/2-Optimization%20algorithms/Optimization/Optimization_methods_v1b.ipynb)
+  - [Week 3 - PA 1 - TensorFlow Tutorial](https://github.com/RuoyuLi92/DeepLearning/blob/master/2-Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/3-Hyperparameter%20tuning%2C%20Batch%20Normalization%20and%20Programming%20Frameworks/TensorFlow%20Tutorial/TensorFlow_Tutorial_v3b.ipynb)
 
 - Course 3: Structuring Machine Learning Projects
 
@@ -48,5 +48,5 @@ This repo contains my work for this specialization. Including programming exerci
   - [Week 2 - PA 1 - Operations on word vectors](https://github.com/RuoyuLi92/DeepLearning/blob/master/5-Sequence%20Model/Week2/Operations_on_word_vectors/Operations_on_word_vectors_v2a.ipynb)check
   - [Week 2 - PA 2 - Emojify](https://github.com/RuoyuLi92/DeepLearning/blob/master/5-Sequence%20Model/Week2/Emojify/Emojify_v2a.ipynb)
   - [Week 3 - PA 1 - Trigger word detection](https://github.com/RuoyuLi92/DeepLearning/blob/master/5-Sequence%20Model/Week3/trigger_word_detection/Trigger_word_detection_v1a.ipynb)
-  - [Week 4 - PA 2 - Neural machine translation with attention](https://github.com/RuoyuLi92/DeepLearning/blob/master/5-Sequence%20Model/Week3/neural_machine_translation_with_attention/Neural_machine_translation_with_attention_v4a.ipynb)
+  - [Week 4 - PA 1 - Neural machine translation with attention](https://github.com/RuoyuLi92/DeepLearning/blob/master/5-Sequence%20Model/Week3/neural_machine_translation_with_attention/Neural_machine_translation_with_attention_v4a.ipynb)
   
